@@ -4,7 +4,6 @@ go 1.22.0
 
 require (
 	github.com/IBM/sarama v1.43.0
-	github.com/gorilla/mux v1.8.1
 	github.com/gorilla/websocket v1.5.1
 )
 
